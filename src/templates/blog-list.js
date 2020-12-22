@@ -85,6 +85,8 @@ const Pagination = (props) => (
     </ul>
   </div>
 )
+
+
 class BlogIndex extends React.Component {
   render() {
     

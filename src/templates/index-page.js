@@ -55,7 +55,7 @@ const HomePage = ({ data }) => {
           </p>
           <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
           <Link 
-            to={frontmatter.cta.ctaLink} 
+            to={"/"} 
             className="button"
             sx={{
               variant: 'links.button'

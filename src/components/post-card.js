@@ -3,7 +3,9 @@ import { jsx } from 'theme-ui'
 import { Link } from "gatsby"
 import Img from "gatsby-image"
 
-const PostCard = ({ data }) => (
+const PostCard = ({ data }) => {
+  console.log(data.frontmatter.date)
+  return (
   <article 
     className="post-card"
     sx={{
@@ -44,6 +46,7 @@ const PostCard = ({ data }) => (
       </p>
     </div>
   </article>
-)
+  )
+}
 
 export default PostCard

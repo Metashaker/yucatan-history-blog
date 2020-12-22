@@ -81,7 +81,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
-  if (node.internal.type === `MarkdownRemark`) {
+  if (node.internal.type === `MarkdownRemark` && node.fields.slug !== "/videos") {
     const slug = createFilePath({ node, getNode, basePath: `pages` })
     createNodeField({
       node,

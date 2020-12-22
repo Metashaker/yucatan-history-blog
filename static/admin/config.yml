@@ -50,10 +50,12 @@ collections:
     label: 'Videos' # Used in the UI
     label_singular: 'Video'
     create: true
-    folder: 'src/content/videos'
-    fields:
-    - {label: "Título", name: "titulo", hint: "El título del video"}
-    - {label: "Link", name: "link", hint: "El link del video de youtube"}
+    folder: "src/content/videos/"
+    fields: 
+      - {label: "Template", name: "template", widget: "hidden", default : "videos-list" }
+      - {label: "Slug", name: "slug", widget: "hidden", default: "/videos" }
+      - {label: "Título", name: "title", hint: "El título del video"}
+      - {label: "Link", name: "link", hint: "El link del video de youtube"}
 
   - label: "Pages"
     name: "pages"

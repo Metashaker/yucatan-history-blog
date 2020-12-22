@@ -1,53 +1,41 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+title: "Un niño, un maestro, un libro y un lápiz… "
+slug: /un-nino-un-maestro-y-un-lapiz
+date: 2020-10-01 16:13
+description: "Un niño, un maestro, un libro y un lápiz… "
+featuredImage: /assets/young-woman-working-in-a-college-library-pwze6cq-1-1-1-.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+*\-Mi padre intentaba apartarme de los libros, en cuanto me veía con uno en la mano…me buscaba tareas, fueran o no necesarias-,* escribió Tara al recordar a su progenitor, un fanático mormón supremacista blanco y afecto a las armas que creía en teorías de conspiración del gobierno, de los Iluminati o de los socialistas y probablemente como descubrió Tara años más tarde, afectado por un trastorno bipolar.
 
-## It doesn't look so shiny to me.
+Los Westover vivían en una pequeña localidad cerca de las montañas de Idaho, la mayoría de los habitantes eran mormones, sin embargo ninguno tan estricto en la observancia de las reglas como la familia de Tara. Creían en la proximidad del fin del mundo, por lo que de tiempo en tiempo se dedicaban frenéticamente a preparar innumerables tarros de conservas, cavar pozos para esconder gasolina, agua o armas para sobrevivir y preparar una mochila para huir. 
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+Desconfiaban de la educación oficial e impedían que la familia asistiera a hospitales por lo que nunca fueron vacunados. Siendo las labores que realizaban peligrosas ya que se dedicaban a la construcción y recolección de chatarra, sufrían frecuentes accidentes, cortes en diferentes partes del cuerpo, contusiones, quemaduras leves con el soplete o graves al incendiarse los tanques con residuos de gasolina. La madre, dócil y obediente a las indicaciones de su esposo, fue inducida a dedicarse a la herbolaria y a ayudar en el parto de otras mujeres, en un principio con mucho temor pero al cabo del tiempo con pericia, se volvió una reconocida comadrona de la región y curandera de la familia. 
 
-![]()
+Los hijos recibían algunas clases en casa, su madre les enseñaba lo básico para que pudieran leer las escrituras y lo poco que ella recordaba de su también escasa educación. Tara creció sin convivir con niñas y niños de su edad, montando caballos, ayudando en la preparación de ungüentos y brebajes, en el techo de una construcción o en una montaña de chatarra lista para deshuesar. Al crecer quisieron obtener licencias de manejo y necesitaban estar registrados civilmente, lo que representó una oportunidad para que inscribieran también a la pequeña Tara de nueve años. No fue fácil obtener los documento de identidad, las autoridades no entendían no sólo que no contaran con ese registro, sino que los padres ni siguiera tenían la certeza de sus fechas de nacimiento. 
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+Los hermanos mayores fueron fieles a las enseñanzas recibidas y se fueron ocupando en trabajos similares a los de su padre, pero había uno especial: Tyler. El era tartamudo, silencioso, se alejaba de los frecuentes pleitos entre los hermanos y le gustaba escuchar música y leer, Tara disfrutaba entrar a su cuarto y acurrucarse a sus pies. Un día, el temeroso Tyler se atrevió a decirle a su padre: *M-m-me voy a la u-universidad*, Tara solo alcanzó a preguntar: *¿Qué es la universidad? -La universidad son más años de escuela para los tontos que no aprenden la primera vez –*respondió su papá. La partida de su hermano preferido desconcertó a Tara. ¿Quería más a los estudios que a la familia? Comenzó a buscar los pocos libros que había en casa y consultarlos, pero poco comprendía de su contenido. Estaba adquiriendo como ella misma escribió, una aptitud fundamental: *la paciencia para leer lo que aún no entendía.*
 
-### Daylight and everything.
+Al llegar a la adolescencia empezó a vivir el maltrato de uno de sus hermanos que desde pequeño sufría ataques de furia. Si descubría que sus hermanas se arreglaban o vestían de forma según él indecente, las golpeaba, asfixiaba y muchas veces terminaban con la cabeza en el inodoro mientras les gritaba que eran unas rameras. Un día llegó de improviso Tyler y observó uno de esos ataques. *¿No has pensado en marcharte? -* le preguntó. *¿Para donde ir? –a la escuela*, fue su respuesta.
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+Una universidad cercana aceptaba alumnos que habían estudiado en casa, previa aprobación de un examen. Tara recorrió 65 kilómetros para ir a la librería más próxima y adquirir una guía de estudios. Su primera sorpresa era lo relativo a matemáticas, donde no reconocía ni siguiera los símbolos, con escaza ayuda de su madre y Tyler, se pasaba las noches intentando descifrar los problemas de algebra y trigonometría. Obtuvo la calificación promedio para ser aceptada y a los 17 años entró por primera vez a un salón de clases a pesar del disgusto paterno.
 
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
+Desconocía casi todo de lo que hablaban en las aulas y en los primeros días se atrevió a alzar la mano y preguntar el significado de una palabra que no entendía: *\-Holocausto-*, se hizo un silencio total y el profesor cambió de tema, una compañera se le acercó y en tono de regaño le dijo: *\-“No deberías reírte de eso, No es un chiste”*. Después de esa experiencia Tara no volvió a preguntar, escribía sus dudas en una libreta y le dedicaba horas a su investigación y lectura. 
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+Su paso por la Universidad fue muy difícil, sus primeras notas fueron deficientes, sus compañeros la rechazaban por su forma de vestir, su extraño comportamiento y sus evasivas respuestas sobre dónde había estudiado la secundaria. Había juntado algo de dinero producto del trabajo con su padre y extras que realizaba, pero pronto éste se agotó, y tuvo que buscar en que emplearse. Dormía poco, se acostaba tarde y levantaba temprano siempre con un libro en su regazo y su salud empezó a desmejorar, sus frecuentes dolores de estomago por úlceras y de muelas le impedían avanzar, sobre todo por la negativa a tomar medicinas, las cuales le seguían pareciendo peligrosas. Se cuestionaba frecuentemente si debía continuar.
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+Llegó a oídos del obispo de la comunidad mormona del área de la universidad, la difícil situación que atravesaba y con mucha insistencia logró que aceptara una ayuda económica de la iglesia y no abandonara los estudios, asimismo la convenció de pedir ayuda al gobierno. Tara llenó los documentos sin mucha esperanza, pero al cabo de unas semanas recibió un cheque que resolvía sus problemas. La adquisición de libros de texto y las clases comenzaron a tener más sentido al sentirse liberada de la preocupación económica. Aun cuando su intención inicial era estudiar música y llegar a dirigir el coro de su iglesia, sin saber la razón, no se matriculaba en ninguna materia afín y elegía geografía, historia, psicología o política.
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+Un maestro la animó a presentar un examen para hacer una estancia en el Trinity College de Cambridge. Tara fue rechazada, pero su mentor escribió una carta para que fuera aceptada. Todo fue sorpresa y fascinación al conocer las instalaciones de la monumental escuela inglesa. Le asignaron un tutor quien se interesó por sus proyectos y su forma de interpretar la historia, después de muchas sesiones de estudio presentó su trabajo y su prestigioso tutor la citó en su oficina: *\-llevo treinta años dando clases en Cambridge*, le dijo- *y este es uno de los mejores trabajos que he leído*.
 
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
+Al regresar a América, presentó un examen para una beca Gate, la cual obtuvo y le dio la oportunidad de regresar a Cambridge para un posgrado, sin embargo a pesar de los triunfos escolares, Tara cada día se sentía más sola y con conflictos internos, se despertaba en las noches gritando o se pasaba el día en su habitación viendo la televisión sin pausas. Una parte de ella se sentía culpable de abandonar a su familia y sus creencias. 
 
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+Todo se precipitó en unas vacaciones cuando visitó a sus padres, Tara se animó a contarles y cuestionarles sobre el acoso y violencia que había vivido con su hermano y los correos que recibía de él amenazándola de muerte, no la creyeron y aun peor la acusaron de histérica y rabiosa. Poco tiempo después sus hermanos mayores, entre ellos su hermana que también había sufrido abusos, la rechazaron y pidieron que no volviera al hogar.
 
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
+Después de terminar el posgrado la aceptaron como profesora investigadora en Harvard, a Tara le extrañó que la quisieran visitar sus padres quienes nunca habían viajado y en la última noche de su estancia en Boston, su padre después de decirle que Lucifer la había poseído le confesó sus intenciones, quería ofrecerle una bendición sacerdotal, una especie de exorcismo en la religión mormona y a continuación sacó un frasco con santos óleos, ella solo tenía que aceptar, sin embargo solo alcanzó a decirle: “*te quiero, pero no puedo, lo siento*”.
 
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
+Tara había cambiado, había sufrido una transformación o metamorfosis, ella le llama: 
 
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+UNA EDUCACIÓN.

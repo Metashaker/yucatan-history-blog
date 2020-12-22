@@ -1,31 +1,53 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
-date: 2020-05-23 23:40
-description: How to draw a character
+title: "Revoluciones cantadas, con claveles y tulipanes, de colores, tranquilas
+  y de terciopelo. "
+slug: /revoluciones-cantadas-con-claveles-y-tulipanes
+date: 2019-10-30 23:40
+description: "Revoluciones cantadas, con claveles y tulipanes, de colores,
+  tranquilas y de terciopelo. "
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
+Al escuchar la palabra Revolución, nuestros pensamientos nos remiten casi instantáneamente a imágenes de violencia, disturbios, destrucción, dolor y abusos. Es por eso que al conocer que, principalmente en el reciente siglo XX, se suscitaron diversos movimientos a los que se les nombró como “revoluciones” en donde una comunidad no tomó el camino de las armas y decidió manifestarse cantando o con flores, me interesé en saber más de ellas. 
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+Durante el mencionado siglo XX, se han dado manifestaciones no-violentas que impulsaron diversos cambios en la forma en que se gobernaba a una comunidad o en su caso, que ayudaron a modificar algunos aspectos políticos, económicos y sociales en las relaciones humanas, siendo el más reconocido y que ha servido de inspiración de muchos de los movimientos que surgieron posteriormente en favor de los derechos civiles en todo el mundo, el encabezado por Mahatma Gandhi durante los años de 1942 a 1947, quien proclamando la resistencia no violenta inició una campaña para lograr la independencia de la India del dominio británico. 
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+Otros de los grandes promotores de cambios a través de la no violencia fue sin duda Martin Luther King Jr., líder durante los años de 1955 a 1968 del movimiento por los derechos civiles y contra la segregación racial que persistía, principalmente en el sur de Estados Unidos, en donde King fue un carismático líder que encabezó paros, marchas y concentraciones, todas pacificas, para conseguir que sean escuchados sus reclamos.
 
-Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
+Sin embargo, ninguno de los dos levantamientos arriba comentados fue nombrado como una “revolución”, aunque en los hechos lo fueron, ya que la palabra en sí se deriva del latín revolutio que significa: “una vuelta”, y en ambos casos se logró que se diera una transformación en las políticas y las estructuras del poder a favor de sus objetivos.
 
-1. Robot 1-X, save my friends! And Zoidberg!
-2. Soon enough.
-3. There's no part of that sentence I didn't like!
+De acuerdo con un trabajo presentado en agosto de 2011 por la Universidad de Columbia, cuyas autoras son Erica Chenoweth y María J. Stephan, llamado: ¿Por qué funciona la resistencia civil?: la lógica estratégica del conflicto no violento, después de un estudio de más de 300 campañas no violenta y violentas entre los años 1900 y 2006, se concluyó que las primeras demostraron el doble de probabilidades de lograr éxito total o parcial que las que recurrieron a la insurgencia armada.
 
-### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
+Dentro de esos conflictos no violentos, existen unos muy inspiradores por la forma en que la población opto por manifestarse, entre ellos está la conocida como “revolución cantada” que abarca diversos sucesos ocurridos durante los años de 1978 a 1991 que ayudaron a conseguir la independencia de Estonia, Letonia y Lituania de la Unión Soviética, claro ejemplo en donde la cultura y específicamente el canto de un pueblo colaboró a su liberación.
 
-Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soothe us with sweet lies. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
+Estos tres pequeños países, siempre han representando una suculenta presa para los países vecinos, ya que se encuentran al oeste del mar Báltico y al este de Rusia, por lo que son puertos de unión entre este país y Europa. Esta situación privilegiada los ha hecho sufrir a través de su historia diversas invasiones, tanto de daneses como de polacos, suecos, alemanes y principalmente rusos.
 
-* That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
-* We'll need to have a look inside you with this camera.
-* Fry! Quit doing the right thing, you jerk!
+Después de conseguir su independencia de Rusia en 1920 y disfrutar de esta durante menos de 20 años, nuevamente las tres repúblicas fueron anexadas a este país al invadirlos en 1939. La ocupación fue violenta y miles fueron asesinados principalmente maestros, escritores e intelectuales y familias enteras enviadas a campos de concentración en Siberia (Gulags), luego vinieron los obscuros tratados Ribbentrop-Molotov del año 1940 entre Rusia y Alemania y fueron invadidos por las tropas Nazis quienes también asesinaron y apresaron a muchos ciudadanos, enviándolos a campos de concentración, más tarde al concluir la guerra, de nuevo fueron ocupados estos territorios por los rusos en 1944.
 
-Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
+Esta última ocupación rusa fue un periodo muy obscuro y duro para los habitantes del Báltico, lleno de restricciones y bajo la constante vigilancia de la temida KGB. Se organizaron pequeños grupos de resistencia como los llamados “hermanos del bosque”, que se refugiaron en cuevas y eran protegidos por la población, pero que poco pudieron hacer contra las tropas rusas que los cazaban como animales, cayendo el último de ellos en el año 1978. Asimismo, los rusos enviaron a ciudadanos de su país a vivir al Báltico para vigilarlos y lograr la rusificación del territorio, no obstante, nunca lograron que sus habitantes olvidaran su historia y cultura y en secreto guardaron sus trajes tradicionales, sus banderas y sobretodo sus cuentos, leyendas y cantos populares. 
 
-Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
+Aprovechando un debilitamiento de la URSS tanto económico como político y a raíz de la implementación del Glasnost y la Perestroika de Mikhail Gorbachev para tratar de mantener unidas a las repúblicas socialistas, los pueblos del Báltico a través del protagonismo e importancia de sus tradicionales festivales de canto que se realizan cada cinco años y convocados entre otros, por el activista estonio Ernest Heinz Valk durante el festival llamado laulupidu realizado en Junio de 1988 en el estadio al aire libre de la ciudad de Tallin, Estonia, más de 100,000 personas cantaron con gran sentimiento y en su idioma, canciones patrióticas muchas de ellas prohibidas, como un abierto desafío a las autoridades rusas.
+
+Una de esas canciones que estaba prohibida es la compuesta por Gustav Ernesaks basada en un poema escrito hace más de 100 años que dice en estribillo: “Tierra de mis padres, tierra que amo…”, la cual junto con el lema de Heinz Valk: “¡Un día, pase lo que pase, ganaremos!” se volvieron, ante la carencia de tropas y armas, sus formas de protestar junto con sus banderas y trajes que salieron de sus baúles. Similar fue también el protagonismo de los cantos en los países vecinos del Báltico y el 3 de agosto de 1989 día del 50 aniversario de la firma del tratado germano-soviético, consiguieron formar una gran cadena humana a lo largo de 600 km a través de Tallin, Estonia, Riga, Letonia y Vilna, Lituania, en donde más de un millón de personas se manifestaron con sus cantos y discursos patrióticos.
+
+Dos años después en septiembre de 1991, la URSS instigada por la comunidad internacional y las constantes manifestaciones y solicitudes de sus habitantes, declaró la independencia de las tres repúblicas Bálticas.
+
+Visitar el enorme estadio de Tallin, al aire libre y rodeado de arboles te traslada a esos momentos mágicos en los que miles de voces se unieron para clamar por una patria libre, por la tierra de sus padres, la tierra que aman.
+
+Otra de las revoluciones en las que el canto fue un factor determinante, es la conocida como: “revolución de los claveles” en donde los portugueses se sacudieron de una dictadura de más de 40 años.
+
+El momento de iniciar el levantamiento se dio a través de la radio con dos temas; el primero fue transmitido el 24 de abril de 1974 a las 22.55 horas y se trató de la canción “E depues do Adeus” (Después de la despedida), con la que Portugal había participado en el reciente festival de Eurovisión con Paulo de Carvaho, la segunda se transmitió al amanecer del día siguiente 25 de abril a las 00.25 am y fue la canción ¡Grandola vila morena!, la cual estaba prohibida y que en su letra dice: Grandola tierra de fraternidad, el pueblo es el que más ordena… Grandola villa morena. En cada esquina un amigo, en todo rostro igualdad…
+
+Después de estas señales previamente acordadas, los militares golpistas tomaron las calles, a ellos se unió la población civil quienes desafiando las advertencias tanto del gobierno como de los mismos alcistas, se adhirieron a las protestas para exigir ser escuchados. Una joven mujer costurera, Celeste Caeiro, quien llevaba una canasta de flores (claveles rojos) es abordada por un soldado que le solicita un cigarro, al no contar con él le ofrece en cambio un clavel que él coloca en el cañón de su rifle y las flores restantes las comienza a repartir entre los demás miembros de la tropa, quienes lo imitan y las colocan en sus armas o en sus uniformes, lo que hizo que la siguieran muchos civiles y las calles se llenaran de claveles.
+
+Los portugueses estaban cansados de la dictadura ultra conservadora iniciada por Antonio de Oliveira Salazar en 1926 y del gobierno de Marcelo Caetano quien lo sustituyó, gobierno con ausencia de libertades y respeto a los derechos humanos. Les pesaba también sobremanera las costosas batallas por defender el imperio colonialista de Portugal, (5 territorios en África, Macao en Asia y el este de la isla Timor en Oceanía), ya que se enviaban constantemente a jóvenes soldados a pelear a otro continente, principalmente a Angola y Mozambique.
+
+Al enterarse Caetano que prácticamente estaba solo ya que el jefe de la unidad leal al gobierno al encontrarse de frente con las tropas alcistas, ordena dar la media vuelta y unirse a los sublevados, toma la decisión de rendirse a las 17 horas del mismo día 25 abril, entregando el poder al militar Antonio de Spínola y se dirige al aeropuerto para volar y pedir refugio al Brasil.
+
+El pueblo lusitano logró en muy pocas horas y sin derramar sangre (únicamente 3 fueron los fallecidos), transitar hacia la democracia y sobretodo aceptar la independencia de los países colonizados, quedando la “revolución de los claveles”, como un claro ejemplo de un pueblo que se manifestó pacíficamente cantando a la fraternidad, la igualdad y repartiendo claveles.
+
+Hubo otros movimientos en que las flores salieron a la calle como la “revolución de las rosas” en Georgia en 2003 y otras de colores como la “revolución naranja” de Ucrania en 2004. También las ha habido de “terciopelo” como la de Checoslovaquia en 1989 o la “revolución tranquila” de Quebec en 1960, en donde todas se caracterizaron por evitar la violencia, aunque sí con diversos actos de protesta y desobediencia civil.
+
+En las semanas recientes, hemos sido bombardeados con noticias de diversos movimientos sociales en todo el mundo, tanto en Asia, como en Europa y América, en donde lamentablemente en algunos casos, no han estado libres de abusos, enfrentamientos y violaciones a los derechos humanos. Es de desear que los pueblos que hoy se manifiestan por conseguir una “vuelta” o cambio en el aspecto político, económico o social, de su país o comunidad, lo consigan principalmente en base a la no violencia y consideren los casos de éxito aquí expuestos, en donde se tomaron las vías pacificas para lograrlo, asimismo, exijamos a los gobiernos a no obstaculizar ni coartar el dialogo y la libre expresión de ideas, ya que como dijo John F. Kennedy: 
+
+*“Los que hacen la revolución pacífica imposible, hacen inevitable la revolución violenta”*
