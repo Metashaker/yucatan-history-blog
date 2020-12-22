@@ -2,7 +2,7 @@ export default {
   colors: {
     text: '#000',
     background: '#fff',
-    primary: '#5C2941',
+    primary: '#000',
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
@@ -15,7 +15,7 @@ export default {
         accent: '#5C2941',
         muted: 'rgba(255, 255, 255, 0.7)',
         buttonAccent: '#fff',
-        cardBg: '#252525',
+        cardBg: '#000',
         borderColor:"#888"
       },
     }

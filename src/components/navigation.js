@@ -8,20 +8,28 @@ import Theme from "../components/theme"
 const MenuItems = [
   {
     path: "/",
-    title: "Home"
+    title: "Inicio"
   },
-  {
-    path: "/about",
-    title: "About"
+  {/*
+    path: "/biografia",
+    title: "Bio"
   },
   {
     path: "/blog",
-    title: "Blog"
+    title: "Articulos"
+  },
+  {
+    path: "/libros",
+    title: "Libros"
+  },
+  {
+    path: "/videos",
+    title: "Videos"
   },
   {
     path: "/contact",
-    title: "Contact"
-  },
+    title: "Contacto"
+  */},
 ]
 
 const ListLink = (props) => (<li><Link to={props.to}>{props.children}</Link></li>)

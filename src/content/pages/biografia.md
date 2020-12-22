@@ -1,6 +1,6 @@
 ---
-template: about-page
-slug: /about
+template: biografia-page
+slug: /biografia
 title: About Foundation
 ---
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!

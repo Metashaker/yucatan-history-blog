@@ -9,17 +9,17 @@ backend:
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
 # Uncomment local_backend when you need to develop in your local
-#local_backend: true # run npx netlify-cms-proxy-server for local testing
+local_backend: true # run npx netlify-cms-proxy-server for local testing
 
 media_folder: "static/assets" 
 public_folder: "/assets" 
 
 collections:
-  - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Posts' # Used in the UI
+  - name: 'articulos' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Artículos' # Used in the UI
     label_singular: 'Post' # Used in the UI, ie: "New Post"
     description: >
-      Create awesome content here.
+      
     folder: 'src/content/posts'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} — {{year}}/{{month}}/{{day}}'
@@ -46,6 +46,15 @@ collections:
         }
 
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
+  - name: 'videos' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Videos' # Used in the UI
+    label_singular: 'Video'
+    create: true
+    folder: 'src/content/videos'
+    fields:
+    - {label: "Título", name: "titulo", hint: "El título del video"}
+    - {label: "Link", name: "link", hint: "El link del video de youtube"}
+
   - label: "Pages"
     name: "pages"
     files:
@@ -73,8 +82,8 @@ collections:
         name: "about"
         file: "src/content/pages/about.md"
         fields:
-        - {label: "Template", name: "template", widget: "hidden", default: "about-page" }
-        - {label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+        - {label: "Template", name: "template", widget: "hidden", default: "biografia-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/biografia" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact"

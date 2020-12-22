@@ -246,6 +246,7 @@ article img {
 		border-radius: 12px;
 	}
 }
+
 // Buttons 
 .button {
 	--padding: 20px;
@@ -253,7 +254,7 @@ article img {
 	display: inline-flex;
 	align-items: center;
 	padding: var(--padding) calc(var(--padding) * 2);
-	background-color: var( --button-alternate-color);
+	background-color: var( --post-link-color);
 	color: var(--button-color);
 	border-radius: 12px;
 	text-decoration: none;

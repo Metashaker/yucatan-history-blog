@@ -80,7 +80,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
+        name: `LERR`,
         short_name: `Foundation`,
         start_url: `/`,
         background_color: `#f7f0eb`,
