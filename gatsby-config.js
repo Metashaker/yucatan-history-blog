@@ -76,19 +76,19 @@ module.exports = {
         trackingId: settings.ga,
       },
     },
-    `gatsby-plugin-advanced-sitemap`,
+    `gatsby-plugin-advanced-sitemap`,/*
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `LERR`,
-        short_name: `Foundation`,
+        name: `Laura Elena Rosado Rosado`,
+        short_name: `LERR`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
       },
-    },
-    'gatsby-plugin-offline',
+      'gatsby-plugin-offline',
+    },*/
   ],
 }
